@@ -1,3 +1,9 @@
+## React.js Practice Project
+  - 간단한 CRUD 기능이 포함된 to-do app 구현
+  - 실행화면 사진 첨부
+![page1](https://user-images.githubusercontent.com/48404998/98799489-8871a700-2452-11eb-94d5-c3d14828ca4c.png)
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
